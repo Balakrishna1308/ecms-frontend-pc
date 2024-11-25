@@ -40,4 +40,5 @@ const FilterSidebarComponent = ({ setFilters }) => {
   );
 };
 
+// export default FilterSidebarComponent;
 export default FilterSidebarComponent;
